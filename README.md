@@ -11,3 +11,5 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+This Market place helps user's to sell their NFT's and they can even connect with their MetaMask Wallet through Diff Blockchain Mainnet
